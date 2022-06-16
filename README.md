@@ -1,6 +1,3 @@
-# stock-analysis
- ![VBA_Challenge_2017](https://user-images.githubusercontent.com/106628649/173988297-587226b3-2510-484f-acd0-671586f6c89c.png)
-
 #  VBA of Wall Street
 Multiple fast-track learning opportunities in a second week of traversing the programming capabilities of spreadsheets.
 
